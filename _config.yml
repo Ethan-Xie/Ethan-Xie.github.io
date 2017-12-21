@@ -3,11 +3,11 @@ highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "潘学文"
-email: winfirm#163.com
-name: "潘学文个人博客"
-url: http://www.panxw.com
+github: Ethan-Xie
+author: "谢小森"
+email: ethan@axie.cc
+name: "谢小森个人博客"
+url: http://www.axie.cc
 domain: www.panxw.com
 all_categories: [
 ["android", "Android开发","/posts/android.html"], 
